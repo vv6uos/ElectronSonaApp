@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "@/components/ui/button";
+// import { Button } from "@/components/ui/button";
 
 export default function Login() {
   return (
@@ -7,7 +7,7 @@ export default function Login() {
       <div>
         <input placeholder="ID" className="mr-10" />
         <input type="password" placeholder="PASSWORD" className="mr-10" />
-        <Button>Login</Button>
+        <button>Login</button>
       </div>
     </div>
   );
