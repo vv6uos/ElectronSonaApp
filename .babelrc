@@ -1,0 +1,4 @@
+// Babel 설정 파일
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
